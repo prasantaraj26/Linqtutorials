@@ -1,0 +1,6 @@
+G:\All .net Concepts Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.exe.config
+G:\All .net Concepts Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.exe
+G:\All .net Concepts Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.pdb
+G:\All .net Concepts Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.csprojResolveAssemblyReference.cache
+G:\All .net Concepts Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.exe
+G:\All .net Concepts Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.pdb
