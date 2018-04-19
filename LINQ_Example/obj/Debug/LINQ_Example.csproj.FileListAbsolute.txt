@@ -8,3 +8,8 @@ G:\Tutorials from KudVenkat Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ
 G:\Tutorials from KudVenkat Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.exe
 G:\Tutorials from KudVenkat Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.csproj.CoreCompileInputs.cache
 G:\Tutorials from KudVenkat Tutorials\LINQ\Simple_LINQ_Example\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.exe
+G:\GitHubRepo\Linqtutorials\LINQ_Example\bin\Debug\LINQ_Example.exe.config
+G:\GitHubRepo\Linqtutorials\LINQ_Example\bin\Debug\LINQ_Example.exe
+G:\GitHubRepo\Linqtutorials\LINQ_Example\obj\Debug\LINQ_Example.csprojResolveAssemblyReference.cache
+G:\GitHubRepo\Linqtutorials\LINQ_Example\obj\Debug\LINQ_Example.csproj.CoreCompileInputs.cache
+G:\GitHubRepo\Linqtutorials\LINQ_Example\obj\Debug\LINQ_Example.exe
